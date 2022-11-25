@@ -1,4 +1,4 @@
-# cartoes
+# Cartas
 
 
 -> Cartoes com que aparece na tela por 7.5s, depois aparece outro 
