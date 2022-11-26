@@ -1,0 +1,54 @@
+body{
+    background-color: #01162b;
+}
+header{
+    width: 99vw;
+    height: 10vh;
+    display: flex;
+    
+}
+.caixatopo{
+    background-color: rgb(243, 237, 237);
+    width: 99vw;
+    height: 10vh;
+    border-radius: 2%;
+   display: inline-block;
+}
+.cabeça{
+    color: rgb(168, 106, 248);
+    
+    margin: 1vh 0rem 0rem 45vw;
+    display: inline-flex;
+   
+}
+section{
+    display: inline-flex;
+    width: 99vw;
+    height: 63vh;
+}
+.caixademsg{
+    background-color: #515961;
+    width: 99vw;
+    height: 36rem;
+    display: flex;
+    margin: 0.5rem 0px 0px 0px;
+    display: block;
+    
+}
+.card1{
+    width: 50vw;
+    height: 18rem; 
+    background-color: rgb(214, 164, 248);
+    display: block;
+    margin: 10rem 0px 0px 25vw;
+   
+    
+}
+
+.caixatall{
+    background-color: rgb(214, 211, 211);
+    width: 99vw;
+    height: 20vh;
+    display: flex;
+    
+}
